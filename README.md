@@ -1,1 +1,1 @@
-# WeatherApp
+This code is a simple JavaFX weather application that displays the current temperature and weather description for a given city. The user enters the city name in a text field and clicks the "Search" button to retrieve the weather data from the OpenWeatherMap API. The application then displays the temperature and weather description in labels, and displays an image corresponding to the weather condition.
